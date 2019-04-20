@@ -1,6 +1,6 @@
 # [IPFS](http://ipfs.io) API for kotlin to access a IPFS node via http
 
-[![Release](https://jitpack.io/v/ligi/ipfs-api-kotlin.svg)](https://jitpack.io/#ligi/ipfs-api-kotlin)
+[![Release](https://jitpack.io/v/colendi-project/ipfs-api-kotlin.svg)](https://jitpack.io/#colendi-project/ipfs-api-kotlin)
 
 # Get it
 
@@ -14,7 +14,7 @@ repositories {
 
 ``` groovy
 dependencies {
-  compile 'com.github.ligi:ipfs-api-kotlin:$current_version'
+  compile 'com.github.colendi-project:ipfs-api-kotlin:$current_version'
 }
 ```
 
